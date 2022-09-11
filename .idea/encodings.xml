@@ -1,4 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" />
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/.gitignore" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Dockerfile" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Dockerfile-embedded" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/docker-compose-db.yaml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/docker-compose.yaml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/microservice/erp/controllers/rest/PassengerController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/microservice/erp/domain/constraint/Gender/GenderConstraint.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/microservice/erp/domain/constraint/Gender/IsValidGender.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/microservice/erp/domain/constraint/README" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/microservice/erp/domain/entities/Auditable.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/microservice/erp/domain/entities/Passenger.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/microservice/erp/domain/entities/Persistable.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/microservice/erp/domain/entities/Person.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/microservice/erp/domain/entities/Username.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/microservice/erp/domain/models/Gender.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/microservice/erp/domain/repositories/PassengerRepository.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/microservice/erp/services/ServiceExecutionLogger.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/microservice/erp/services/iServices/PassengerService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/microservice/erp/services/impl/PassengerServiceImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/microservice/erp/webapp/WebApplication.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/microservice/erp/webapp/config/BeanConfig.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/microservice/erp/webapp/config/JPAConfig.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/microservice/erp/webapp/config/SecurityConfig.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/microservice/erp/webapp/config/StartupConfig.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/microservice/erp/webapp/config/SwaggerConfig.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/application.properties" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/h2-db.properties" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/logback-spring.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/mysql-db.properties" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/com/microservice/erp/repositories/PassengerRepositoryUnitTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/com/microservice/erp/repositories/TemplateRepositoryUnitTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/com/microservice/erp/rest/PassengerController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/com/microservice/erp/rest/PassengerControllerIntegrationTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/com/microservice/erp/rest/PassengerControllerUnitTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/com/microservice/erp/services/PassengerServiceUnitTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/com/microservice/erp/webapp/WebApplicationTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/com/microservice/erp/webapp/config/TestJPAConfig.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/com/microservice/erp/webapp/config/TestJPAH2Config.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/resources" charset="UTF-8" />
+  </component>
 </project>
